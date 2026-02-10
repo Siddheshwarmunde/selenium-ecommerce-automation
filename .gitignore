@@ -1,0 +1,18 @@
+# Maven build
+target/
+
+# Test output
+test-output/
+
+# Screenshots
+screenshots/
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
